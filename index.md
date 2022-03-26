@@ -1,3 +1,3 @@
 # Retirement Calculator
 
-Caluclator is [here](retirement_nb.jl.html)
+Caluclator is [here](retire_nb.jl.html)
